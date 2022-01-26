@@ -10,19 +10,19 @@
   
   
   Please cite our paper using the following bibtex:
-
-  @Article{s21051589,
-  AUTHOR = {Nandi, Arijit and Xhafa, Fatos and Subirats, Laia and Fort, Santi},
-  TITLE = {Real-Time Emotion Classification Using EEG Data Stream in E-Learning Contexts},
-  JOURNAL = {Sensors},
-  VOLUME = {21},
-  YEAR = {2021},
-  NUMBER = {5},
-  ARTICLE-NUMBER = {1589},
-  URL = {https://www.mdpi.com/1424-8220/21/5/1589},
-  ISSN = {1424-8220},
-  DOI = {10.3390/s21051589}
-  }
+  
+    @Article{s21051589,
+      AUTHOR = {Nandi, Arijit and Xhafa, Fatos and Subirats, Laia and Fort, Santi},
+      TITLE = {Real-Time Emotion Classification Using EEG Data Stream in E-Learning Contexts},
+      JOURNAL = {Sensors},
+      VOLUME = {21},
+      YEAR = {2021},
+      NUMBER = {5},
+      ARTICLE-NUMBER = {1589},
+      URL = {https://www.mdpi.com/1424-8220/21/5/1589},
+      ISSN = {1424-8220},
+      DOI = {10.3390/s21051589}
+    }
 
   **MDPI and ACS Style**
   Nandi, A.; Xhafa, F.; Subirats, L.; Fort, S. Real-Time Emotion Classification Using EEG Data Stream in E-Learning Contexts. Sensors 2021, 21, 1589. https://doi.org/10.3390/s21051589
