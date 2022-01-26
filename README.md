@@ -9,7 +9,7 @@
 - This work is published in **MDPI Sensors Journal**. The link to the paper "**Real-Time Emotion Classification Using EEG Data Stream in E-Learning Contexts**" is : https://doi.org/10.3390/s21051589. 
   
   
-  Please cite our paper using the following bibtex:
+ **Please cite the paper using the following bibtex:**
   
     @Article{s21051589,
       AUTHOR = {Nandi, Arijit and Xhafa, Fatos and Subirats, Laia and Fort, Santi},
