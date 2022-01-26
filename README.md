@@ -25,7 +25,9 @@
     }
 
   **MDPI and ACS Style**
-  Nandi, A.; Xhafa, F.; Subirats, L.; Fort, S. Real-Time Emotion Classification Using EEG Data Stream in E-Learning Contexts. Sensors 2021, 21, 1589. https://doi.org/10.3390/s21051589
+  
+    Nandi, A.; Xhafa, F.; Subirats, L.; Fort, S. Real-Time Emotion Classification Using EEG Data Stream in E-Learning Contexts. Sensors 2021, 21, 1589. https://doi.org/10.3390/s21051589
 
   **AMA Style**
-  Nandi A, Xhafa F, Subirats L, Fort S. Real-Time Emotion Classification Using EEG Data Stream in E-Learning Contexts. Sensors. 2021; 21(5):1589. https://doi.org/10.3390/s21051589
+  
+    Nandi A, Xhafa F, Subirats L, Fort S. Real-Time Emotion Classification Using EEG Data Stream in E-Learning Contexts. Sensors. 2021; 21(5):1589. https://doi.org/10.3390/s21051589
