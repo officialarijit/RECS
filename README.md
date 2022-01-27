@@ -31,3 +31,7 @@
   **AMA Style**
   
     Nandi A, Xhafa F, Subirats L, Fort S. Real-Time Emotion Classification Using EEG Data Stream in E-Learning Contexts. Sensors. 2021; 21(5):1589. https://doi.org/10.3390/s21051589
+    
+    
+    
+# NOTE*: Please feel free to use the code by giving proper citation and star to this repository.
