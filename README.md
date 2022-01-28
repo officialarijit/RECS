@@ -22,7 +22,7 @@
   - Step 4: Run files :wink:.
 
 
-
+## Publication
 
 - The developed system is called **"Real-time Emotion Classification System (RECS)"**. The RECS is developed using Logistic Regression (LR) optimized with Stochastic Gradient Descent (SGD) in online mode.
 
