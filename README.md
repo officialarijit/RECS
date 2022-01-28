@@ -5,6 +5,23 @@
 - **DATASET** : `DEAP dataset` is required. The experiment is conducted using the `EEG measurements taken from DEAP dataset`. To download `DEAP dataset` click on : https://www.eecs.qmul.ac.uk/mmv/datasets/deap/download.html
 
 
+## Installation 
+- Programming language
+  - `Python 3.6`
+
+- Operating system
+  - `Ubuntu 18.04 (64 bit)` 
+
+- Required packages
+  - `Scikit-Learn` &#8592; for model's performance matrics. 
+  
+- Installation steps:
+  - Step 1: Install `Anaconda`. 
+  - Step 2: Create a `virtual environment` in Anaconnda using the given `yml` environment file.
+  - Step 3: Open `terminal`, and `activate environment`.
+  - Step 4: Run files :wink:.
+
+
 
 
 - The developed system is called **"Real-time Emotion Classification System (RECS)"**. The RECS is developed using Logistic Regression (LR) optimized with Stochastic Gradient Descent (SGD) in online mode.
