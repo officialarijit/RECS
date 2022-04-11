@@ -55,3 +55,8 @@
     
     
 # NOTE*: Please feel free to use the code by giving proper citation and star to this repository.
+
+## 📝 License
+
+Copyright © [Arijit](https://github.com/officialarijit).
+This project is MIT licensed.
