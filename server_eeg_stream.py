@@ -102,6 +102,9 @@ while True:
             # Useful For binary-class classification
             #==================================================================
 
+            val = emo_label.iloc[0]
+            aro = emo_label.iloc[1]
+
             #valence emotion maping 0-> low valence and 1-> high valence
 
             if (val >=5):
