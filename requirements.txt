@@ -1,0 +1,15 @@
+river
+h5py==3.1.0
+keras==2.6.0
+mlxtend
+nbconvert
+nbformat
+notebook
+numpy
+paho-mqtt
+pandas
+pillow
+pywavelets
+scikit-learn
+scipy
+tensorflow-gpu==2.6.2
